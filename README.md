@@ -369,4 +369,18 @@ Tras analizar las 5 ofertas, estas son las tecnologías y habilidades más recur
 5. Pensamiento analítico (3/5)
 
 ### 💡 Conclusión personal
+
 > Mi enfoque en HTML5, CSS3, JavaScript, Java y MySQL me posiciona bien para roles junior/mid. Para escalar, priorizaré: TypeScript, React, testing y experiencia con cloud.
+
+---
+
+# 🌐 Portafolio Web
+
+Puedes visitar mi portafolio profesional en línea en el siguiente enlace:
+
+🔗 **Ver Portafolio:**  
+https://stiff-2904.github.io/portafolio-profesional/
+
+En este sitio se presentan mis proyectos, habilidades técnicas, experiencia académica y objetivos profesionales como desarrollador Full Stack.
+
+---
