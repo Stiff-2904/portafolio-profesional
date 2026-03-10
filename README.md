@@ -381,6 +381,5 @@ Puedes visitar mi portafolio profesional en línea en el siguiente enlace:
 🔗 **Ver Portafolio:**  
 https://stiff-2904.github.io/portafolio-profesional/
 
-En este sitio se presentan mis proyectos, habilidades técnicas, experiencia académica y objetivos profesionales como desarrollador Full Stack.
-
 ---
+
